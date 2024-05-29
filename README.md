@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aleksandar Zivanovic
 - 👀 I’m interested in PHP (backend web development), but I also like to flirt with JS (Valilla and jQuery)
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning Symfony 6.4/7
 - 💞️ I’m looking to collaborate on project where I can use my current knowlegde and learn new skills. I don't expect any compensation for my work, execpt to push me over my limits.
 - 📫 How to reach me -> dipl.ek.aleksandar.zivanovic@gmail.com or by a phone ++38163232890 (Viber, Line and WhatsApp)
 
